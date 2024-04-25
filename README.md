@@ -8,8 +8,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-andrade-oliveira-9318ba286/)
 
 <div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=devRAFAHT&show_icons=true&theme=dracula&locale=pt-BR"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRAFAHT&hide_progress=true&theme=dracula&locale=pt-BR"/>
+<img height="180cm" width="350" src="https://github-readme-stats.vercel.app/api?username=devRAFAHT&show_icons=true&theme=dracula&locale=pt-BR"/>
+<img height="180cm" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRAFAHT&hide_progress=true&theme=dracula&locale=pt-BR"/>
+</div>
 </div>
 
 ## Tecnologias:
