@@ -19,5 +19,11 @@
     <img height="30cm" width=40 align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"" />
     <img height="30cm" width=40 align="center" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"" />
     <img height="30cm" width=40 align="center" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"" />
+    <img height="30cm" width=40 align="center" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img height="30cm" width=40 align="center" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+    <img height="30cm" width=40 align="center" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img height="30cm" width=40 align="center" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img height="30cm" width=40 align="center" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img height="30cm" width=40 align="center" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
