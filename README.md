@@ -1,5 +1,5 @@
 
-### E aí, meu nome é Rafael Andrade e eu sou desenvolvedor Back-End 👋
+### E aí, meu nobre! Eu sou desenvolvedor full-stack. 👋
 
 - 📚 Acadêmico de Análise e Desenvolvimento de Sistemas - IFBA
 - 📫 Entre em contato:
