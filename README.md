@@ -9,7 +9,6 @@
 
 <div>
 <img height="180cm" width="400" src="https://github-readme-stats.vercel.app/api?username=devRAFAHT&show_icons=true&theme=dracula&locale=pt-BR"/>
-<img height="180cm" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRAFAHT&theme=dracula&locale=pt-BR&hide_progress=false&layout=compact"/>
 </div>
 </div>
 
