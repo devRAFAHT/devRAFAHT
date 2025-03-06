@@ -1,5 +1,5 @@
 
-### E aí, meu nobre! Eu sou desenvolvedor full-stack. 👋
+### Desenvolvedor full-stack. 
 
 - 📚 Acadêmico de Análise e Desenvolvimento de Sistemas - IFBA
 - 📫 Entre em contato:
